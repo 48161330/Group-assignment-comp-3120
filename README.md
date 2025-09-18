@@ -1,2 +1,6 @@
 # Group-assignment-comp-3120
-comp3120- ass 3
+comp3120- assignment 3
+
+Group Members:
+Sneha Kingston 
+
